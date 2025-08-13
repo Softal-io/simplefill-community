@@ -1,6 +1,6 @@
 # A community for SimpleFill users
 
-Users can now vote on or request [new features](https://github.com/rampatra/simplefill-community/discussions/categories/ideas). Thanks to GitHub.
+Users can now vote on or request [new features](https://github.com/Softal-io/simplefill-community/discussions/categories/ideas) or [file bugs](https://github.com/Softal-io/simplefill-community/discussions/categories/bugs). Thanks to GitHub.
 
 ## Links
 
