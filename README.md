@@ -4,7 +4,7 @@ Users can now vote on or request [new features](https://github.com/Softal-io/sim
 
 ## Links
 
-Website: https://simplefillapp.com  
+Website: https://simplefill.app  
 YouTube: https://www.youtube.com/@Softal    
-FAQ: https://simplefillapp.com/faq  
-Privacy: https://simplefillapp.com/privacy
+FAQ: https://simplefill.app/faq  
+Privacy: https://simplefill.app/privacy
